@@ -4,11 +4,9 @@ A backend web service for Bitespeed's Identity Reconciliation task. This service
 
 ## 🚀 Live Endpoint
 
-**Base URL:** `https://bitspeed-task.vercel.app`
+**Base URL:** `https://bitespeed-assignment-pink.vercel.app`
 
 **POST** `/identify`
-
-> ⚠️ Update the URL above after deploying to Vercel.
 
 ## 📋 API Usage
 
