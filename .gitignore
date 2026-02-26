@@ -4,3 +4,5 @@ dist/
 *.js.map
 
 /src/generated/prisma
+
+.vercel
